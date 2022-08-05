@@ -30,3 +30,6 @@ The pertinent coefficients to the transfer function models and matrices for the 
 The Chapter 6 project program takes the transfer function and state space models from the previous project and creates an autopilot. There are two types of autopilot in this project: the Successive Loop Closure (SLC) autopilot and the Linear-Quadratic Regulator (LQR) autopilot. 
 
 The program accepts inputs of commanded altitude, course, and airspeed and displays a visualization of how the aircraft behaves. 
+
+## Simulation Results
+This folder stores videos of the aircraft simulation behaving under each of the designed autopilot controllers. Both autopilots were given the same inputs.
