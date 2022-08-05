@@ -22,7 +22,11 @@ It calculates the dynamic applied forces and moments on the vehicle.
 A 3D visualization of the aircraft's behavior is displayed in a separate window.
 
 ## Chapter 5 - Linearization
-The Chapter 5 project 
+The Chapter 5 project program builds on the previous projects, using the modules to calculate trim, and generate the transfer function and state space model of the aircraft.
+
+The pertinent coefficients to the transfer function models and matrices for the state space models are stored in a separate file.
 
 ## Chapter 6 - Autopilots
+The Chapter 6 project program takes the transfer function and state space models from the previous project and creates an autopilot. There are two types of autopilot in this project: the Successive Loop Closure (SLC) autopilot and the Linear-Quadratic Regulator (LQR) autopilot. 
 
+The program accepts inputs of commanded altitude, course, and airspeed and displays a visualization of how the aircraft behaves. 
