@@ -1,7 +1,7 @@
 # AAE497-Summer2022
-A collection of the end-of-chapter projects from Randal Beard and Timothy McLain's *Small Unmanned Aircraft: Theory and Practice*
+A collection of the end-of-chapter projects from Randal Beard and Timothy McLain's *Small Unmanned Aircraft: Theory and Practice*.
 
-Sample code and templates taken from https://github.com/randybeard/uavbook/tree/main/mavsim_python
+Sample code and templates taken from https://github.com/randybeard/uavbook/tree/main/mavsim_python.
 
 A README file dedicated to each project is included in the respective folder.
 
