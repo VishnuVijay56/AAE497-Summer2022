@@ -22,7 +22,7 @@ It calculates the dynamic applied forces and moments on the vehicle.
 A 3D visualization of the aircraft's behavior is displayed in a separate window.
 
 ## Chapter 5 - Linearization
-The Chapter 5 project program builds on the previous projects, using the modules to calculate trim, and generate the transfer function and state space model of the aircraft.
+The Chapter 5 project program builds on the previous projects, using the modules to calculate trim, and generate the transfer function and state space models of the aircraft.
 
 The pertinent coefficients to the transfer function models and matrices for the state space models are stored in a separate file.
 
